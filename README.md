@@ -16,7 +16,7 @@ GitHub: [GAYATHRI1006](https://github.com/GAYATHRI1006)
   - Gender
   - Course
   - Email
-- Data validation to ensure all fields are filled
+
 - Dynamically adds submitted data to a result table
 - Includes a **Delete** button to remove individual entries
 - Styled using modern CSS with hover effects
@@ -25,7 +25,7 @@ GitHub: [GAYATHRI1006](https://github.com/GAYATHRI1006)
 
 - **HTML5** – Structure of the form and table  
 - **CSS3** – Styling and responsiveness  
-- **JavaScript** – DOM manipulation, data validation, and interactivity
+- **JavaScript** – DOM manipulation, interactivity
 
 ## Screenshots
 
