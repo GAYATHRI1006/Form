@@ -2,6 +2,12 @@
 
 A simple interactive student registration form built using **HTML**, **CSS**, and **JavaScript**. This form allows users to input student details and dynamically display and delete records from a table on the same page.
 
+🔗 **Live Demo**: [Click Here to Visit](https://student-form-sample.netlify.app/)
+
+## Developed By
+**Gayathri G**  
+GitHub: [GAYATHRI1006](https://github.com/GAYATHRI1006)
+
 ## Features
 
 - Collects basic student information:
